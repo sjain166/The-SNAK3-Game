@@ -31,6 +31,5 @@ I also added background.py for generation of the square matrix if you are doing 
 
 ![board](https://user-images.githubusercontent.com/85589093/184045775-8f761825-a79f-4d58-8bfd-91ce4b1342c0.jpg)
 
-## Here is the Code in Action
 
 
