@@ -29,8 +29,7 @@ This program is to run snake game in a 15x15 Matrix made with WS2812B (5M 300led
 
 I also added background.py for generation of the square matrix if you are doing for a matrix of different size without cutting the strip by just folding.
 
-![My Matrix](https://user-images.githubusercontent.com/89619544/179683082-6f3e3fb3-ad79-45c8-a88a-20853798fed1.jpg)
-
+![board](https://user-images.githubusercontent.com/85589093/184045775-8f761825-a79f-4d58-8bfd-91ce4b1342c0.jpg)
 
 ## Here is the Code in Action
 
